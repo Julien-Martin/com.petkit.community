@@ -10,11 +10,13 @@
     "en": "Petkit"
   },
   "description": {
-    "en": "Provide a comprehensive pet care experience"
+    "en": "Provide a comprehensive pet care experience.",
+    "fr": "Offrir une expérience complète de soins pour animaux de compagnie."
   },
   "category": [
     "appliances"
   ],
+  "brandColor": "#000000",
   "permissions": [],
   "images": {
     "small": "/assets/images/small.png",
@@ -24,5 +26,22 @@
   "author": {
     "name": "Julien Martin",
     "email": "reykozz15@gmail.com"
-  }
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Julien Martin"
+      }
+    ],
+    "translators": [
+      {
+        "name": "Julien Martin"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/Julien-Martin/com.petkit.community/issues"
+  },
+  "source": "https://github.com/Julien-Martin/com.petkit.community",
+  "homepage": "https://petkit.com/"
 }
